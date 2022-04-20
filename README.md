@@ -1,0 +1,7 @@
+- 👋 Hi, my name is Hellen Cristini, and i live in Brazil. 
+- 👀 I’m interested in python and big data - intelligence artificielle.
+- 🌱 I’m currently learning big data and intelligence analysis on my college.
+- 💞️ I’m looking to collaborate on my job, the name of the place is Smarthint. They created a tool that works on websites of e-commerce. Through the "cookies" of 
+- the users who acess the website the software offers valueble experience for the client, showing items that matches with the profile of each one.
+- 📫 You guys can reach me through my Linkedin profile: https://www.linkedin.com/in/hellen-cristini-4b0386173/
+- I'm open to experiences and apprenticeship. Feel free to give me tips :D
